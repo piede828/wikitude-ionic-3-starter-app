@@ -1,4 +1,6 @@
-*haven't tested this on iOS yet*
+How to install
+
+*please not this works on Android, haven't tested this on iOS yet*
 
 ionic start YourProjectName tabs --cordova
 cd into YourProjectName
